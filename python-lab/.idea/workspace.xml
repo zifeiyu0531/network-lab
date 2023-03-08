@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b61591c-eaa0-457a-962e-b3799ba4322a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TCP/TCPClient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TCP/TCPServer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UDP/UDPClient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UDP/UDPServer.py" afterDir="false" />
+    <list default="true" id="f3e5825d-4c5d-43c6-b425-8640d27df8d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java-lab/udpping/client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/udpping/client/src/PingClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/udpping/server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/udpping/server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/udpping/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/udpping/server/src/PingServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/webserver/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/webserver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/webserver/HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/webserver/HelloWorld.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/webserver/src/WebServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-lab/webserver/webserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smtp/smtp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udpping/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udpping/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webserver/HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webserver/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,37 +30,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UDP/UDPClient.py">
+        <entry file="file://$PROJECT_DIR$/udpping/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="189">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TCP/TCPClient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TCP/TCPServer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UDP/UDPServer.py">
+        <entry file="file://$PROJECT_DIR$/smtp/smtp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +58,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -66,27 +69,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/UDP/UDPServer.py" />
-        <option value="$PROJECT_DIR$/UDP/UDPClient.py" />
-        <option value="$PROJECT_DIR$/TCP/TCPClient.py" />
-        <option value="$PROJECT_DIR$/TCP/TCPServer.py" />
+        <option value="$PROJECT_DIR$/webserver/HelloWorld.html" />
+        <option value="$PROJECT_DIR$/webserver/server.py" />
+        <option value="$PROJECT_DIR$/udpping/client.py" />
+        <option value="$PROJECT_DIR$/udpping/server.py" />
+        <option value="$PROJECT_DIR$/smtp.py" />
+        <option value="$PROJECT_DIR$/smtp/smtp.py" />
       </list>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/socket.iml" />
+        <option value="$PROJECT_DIR$/.idea/python-lab.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-221" />
-    <option name="y" value="-8" />
+    <option name="x" value="-240" />
+    <option name="y" value="-15" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -102,22 +106,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="socket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
+              <item name="python-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-lab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="socket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-              <item name="TCP" type="462c0819:PsiDirectoryNode" />
+              <item name="python-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="smtp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="socket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-              <item name="UDP" type="462c0819:PsiDirectoryNode" />
+              <item name="python-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="udpping" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="socket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="python-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-lab" type="462c0819:PsiDirectoryNode" />
+              <item name="webserver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,9 +132,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,21 +150,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TCPClient">
-    <configuration name="TCPClient" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="socket" />
+  <component name="RunManager" selected="Python.smtp">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TCP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udpping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TCP/TCPClient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udpping/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,20 +173,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TCPServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="socket" />
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TCP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udpping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TCP/TCPServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udpping/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,20 +195,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UDPClient" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="socket" />
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UDP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webserver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UDP/UDPClient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webserver/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,20 +217,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UDPServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="socket" />
+    <configuration name="smtp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UDP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/smtp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UDP/UDPServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smtp/smtp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,10 +241,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TCPClient" />
-        <item itemvalue="Python.TCPServer" />
-        <item itemvalue="Python.UDPClient" />
-        <item itemvalue="Python.UDPServer" />
+        <item itemvalue="Python.smtp" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.server" />
       </list>
     </recent_temporary>
   </component>
@@ -246,24 +253,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b61591c-eaa0-457a-962e-b3799ba4322a" name="Default Changelist" comment="" />
-      <created>1678178729248</created>
+      <changelist id="f3e5825d-4c5d-43c6-b425-8640d27df8d1" name="Default Changelist" comment="" />
+      <created>1678257498917</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678178729248</updated>
-      <workItem from="1678178736201" duration="3247000" />
+      <updated>1678257498917</updated>
+      <workItem from="1678257504449" duration="5641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3247000" />
+    <option name="totallyTimeSpent" value="5641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -289,37 +296,59 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/socket$UDPServer.coverage" NAME="UDPServer Coverage Results" MODIFIED="1678179598546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UDP" />
-    <SUITE FILE_PATH="coverage/socket$TCPServer.coverage" NAME="TCPServer Coverage Results" MODIFIED="1678183715570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TCP" />
-    <SUITE FILE_PATH="coverage/socket$UDPClient.coverage" NAME="UDPClient Coverage Results" MODIFIED="1678179759498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UDP" />
-    <SUITE FILE_PATH="coverage/socket$TCPClient.coverage" NAME="TCPClient Coverage Results" MODIFIED="1678183720312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TCP" />
+    <SUITE FILE_PATH="coverage/python_lab$client.coverage" NAME="client Coverage Results" MODIFIED="1678266535444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udpping" />
+    <SUITE FILE_PATH="coverage/python_lab$smtp.coverage" NAME="smtp Coverage Results" MODIFIED="1678270456399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smtp" />
+    <SUITE FILE_PATH="coverage/python_lab$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1678266531871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udpping" />
+    <SUITE FILE_PATH="coverage/python_lab$server.coverage" NAME="server Coverage Results" MODIFIED="1678259451681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webserver" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UDP/UDPClient.py">
+    <entry file="file://$PROJECT_DIR$/webserver/HelloWorld.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="162">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UDP/UDPServer.py">
+    <entry file="file://$PROJECT_DIR$/webserver/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="e#22#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smtp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udpping/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TCP/TCPServer.py">
+    <entry file="file://$PROJECT_DIR$/udpping/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TCP/TCPClient.py">
+    <entry file="file://$PROJECT_DIR$/smtp/smtp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="189">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
